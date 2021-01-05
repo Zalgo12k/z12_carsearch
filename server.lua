@@ -51,7 +51,7 @@ TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 
 RegisterServerEvent('z12:startcarTimer')
-AddEventHandler('Og:startcarTimer', function(car)
+AddEventHandler('z12:startcarTimer', function(car)
     startTimer(source, car)
 end)
 
