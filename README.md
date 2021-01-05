@@ -19,5 +19,8 @@ https://cdn.discordapp.com/attachments/770684024787042344/795868461858816020/unk
 aşırı basit configi
 
 https://cdn.discordapp.com/attachments/598607267985752064/795974757388517406/unknown.png
+
 Aranabilecek tüm araçlar : https://imgur.com/a/Qygxfjx
+
+
 örnek log:https://cdn.discordapp.com/attachments/598607267985752064/795977383802699807/unknown.png
