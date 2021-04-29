@@ -4,7 +4,7 @@
 Başta kendi sunucum olan urp için yapmıştım ama farklılık arayanlar için paylaşmak istedim umarım beğenirsiniz
 Umarım işinize yarar tek isteğim adını değiştirip sahiplenmeyin ve script benim demiyorum qb-scrapyard'ın ESX'e çevrilip tüm herşeyin basitleştirilip confige çekilip log sistemi kurulmuştur
 
-object id leri değiştirip varil,kutu veya herhangi bir objeyide içini aratabilirsiniz, herhangi bir sorunda veya yardım ihtiyaç duyarsanız Zalgo12K#6220 Veya öm atabilirsiniz
+object id leri değiştirip varil,kutu veya herhangi bir objeyide içini aratabilirsiniz, herhangi bir sorunda veya yardım ihtiyaç duyarsanız Zalgo12K#6221 Veya öm atabilirsiniz
 
 Her itemden 1 tane veriyor ayarladığınız min max math.random atıyor şansına göre veriyor isterseniz içinde server.lua satır 63
 for i = 1, math.random(1, 1), 1 do kısmınıda math.random(1,5) yaparak 1veya5 arasında farklı farklı itemler verecektir
